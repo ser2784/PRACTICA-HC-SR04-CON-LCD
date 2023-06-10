@@ -1,5 +1,5 @@
 # Practica ESP32 con HC-SR04 CON LCD 
-Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11.
+Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22.
 
 ## Introducción
 
