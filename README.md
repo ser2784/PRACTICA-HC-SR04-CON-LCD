@@ -87,11 +87,11 @@ void loop()
 ```
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/Libreria%20DHT.png?raw=true)
+![](https://github.com/ser2784/PRACTICA-HC-SR04-CON-LCD/blob/main/CODIGO%20HC-SR04.png)
 
 3. Hacer la conexion de **HC-SR04** Y el **LCD** con la **ESP32** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png?raw=true)
+![](https://github.com/ser2784/PRACTICA-HC-SR04-CON-LCD/blob/main/HC-SR04%20DIAGRAMA.png)
 
 ### Instrucciónes de operación
 
@@ -104,8 +104,8 @@ void loop()
 
 Cuando haya funcionado, verás los valores el nombre y la carrera del alumno dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
-
+![](https://github.com/ser2784/PRACTICA-HC-SR04-CON-LCD/blob/main/HC-SR04%20DISTANCIA%20EN%20EL%20LCD.png)
+![](https://github.com/ser2784/PRACTICA-HC-SR04-CON-LCD/blob/main/HC-SR04%20NOMBRE%20EN%20EL%20LCD.png)
 
 
 
